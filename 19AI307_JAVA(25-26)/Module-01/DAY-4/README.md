@@ -35,8 +35,8 @@ To write a Java program that reads an array of integers and counts how many elem
 ```
 /*
 Program to implement a Array concept using Java
-Developed by: H AARON
-RegisterNumber: 212223040001
+Developed by: Aswini M
+RegisterNumber: 212223220010
 */
 ```
 
@@ -77,4 +77,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to count positive, negative, and zero elements in an array was successfully executed and verified.
+
 
