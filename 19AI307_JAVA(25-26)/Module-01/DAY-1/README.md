@@ -50,8 +50,8 @@ To write a Java program that reads a hero's attributes and evaluates logical con
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: H AARON
-RegisterNumber: 212223040001
+Developed by: Aswini M
+RegisterNumber: 212223220010
 */
 ```
 
@@ -87,4 +87,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program using logical operators to determine a hero’s eligibility to enter the arena was successfully executed and verified.
+
 
