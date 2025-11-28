@@ -25,8 +25,8 @@ To write a Java program that demonstrates **abstraction** using an abstract clas
 ```
 /*
 Program to implement Abstraction using Java
-Developed by: H AARON 
-RegisterNumber: 212223040001
+Developed by: M Aswini
+RegisterNumber: 212223220010
 */
 ```
 
@@ -79,4 +79,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program implementing **abstraction** using an abstract class TaxPayer and its subclasses was successfully executed.
+
 
